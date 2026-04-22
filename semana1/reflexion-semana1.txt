@@ -1,6 +1,1 @@
-Buscar la información en internet
-Revisar la fuente de donde proviene la información
-Verificar si la información aparece en otros sitios confiables
-Confirmar que la noticia sea actual
-Analizar si el contenido es verdadero y no tiene errores
-Compartir la información de manera responsable
+El uso responsable de la información en internet es fundamental para evitar la difusión de noticias falsas y contribuir a una sociedad informada. La ciudadanía digital implica actuar con ética y respeto en los entornos digitales, lo cual fortalece la participación ciudadana. Cuando las personas verifican la información antes de compartirla, ayudan a construir confianza en la comunidad. Por otro lado, la organización del trabajo técnico con herramientas como Git permite llevar un control ordenado de la información y los cambios realizados. Esto facilita el trabajo en equipo y mejora la calidad de los proyectos. En conjunto, estos elementos promueven un uso consciente de la tecnología y un desarrollo más organizado y responsable.

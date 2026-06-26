@@ -1,0 +1,4 @@
+
+1. Proteger contraseñas con claves seguras.
+2. No compartir credenciales con otras personas.
+3. Mantener el software y el sistema operativo actualizados.

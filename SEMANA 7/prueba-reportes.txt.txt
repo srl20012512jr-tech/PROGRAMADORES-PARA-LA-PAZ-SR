@@ -1,0 +1,13 @@
+Al enviar un reporte mediante la ruta POST, el servidor registra la información en el arreglo llamado reportes y devuelve un mensaje indicando que el reporte fue registrado correctamente.
+
+Al consultar la ruta GET /reportes, el servidor muestra la lista de todos los reportes almacenados en memoria. Cada reporte aparece con un id, el tipo y la descripción enviados por el usuario.
+
+Ejemplo de respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
